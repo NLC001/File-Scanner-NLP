@@ -22,30 +22,6 @@ PyMuPDF and PyPDF2 for PDF text extraction.
 SpaCy for NLP processing.
 JSON for handling data exchange.
 
-**Installation**
-**Prerequisites**
-Ensure you have the following installed on your system:
-**Python 3.12 or later.
-pip (Python package manager).
-XAMPP or any local server environment for PHP and file hosting.**
-
-**Steps**
-Clone the repository:
-git clone https://github.com/your-repo-name/intelligent-document-query-system.git
-
-Navigate to the project directory:
-cd intelligent-document-query-system
-
-Install the required Python packages:
-pip install -r requirements.txt
-
-Install SpaCy models:
-python -m spacy download en_core_web_trf
-
-Start your local server (e.g., XAMPP) and place the project folder in the appropriate directory (e.g., htdocs for XAMPP).
-Access the web application by navigating to:
-http://localhost/intelligent-document-query-system
-
 **How to Use**
 
 **Upload a PDF**
