@@ -1,0 +1,17 @@
+{
+    "name": "nmose/file-scanner",
+    "description": "A PHP application for uploading, parsing, and searching through PDF and Word documents.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucky Nmose",
+            "email": "nmoselu_aehit@students.vizja.pl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "smalot/pdfparser": "^2.10",
+        "phpoffice/phpword": "^1.2"
+    }
+}

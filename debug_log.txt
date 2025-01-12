@@ -1,0 +1,772 @@
+Question: what is cloud Computing
+Content file path: C:\Windows\Temp\nlpAA2D.tmp
+Question: what is cloud Computing
+Content file path: C:\Windows\Temp\nlpABF3.tmp
+Question: is ali a boy?
+Content file path: C:\Windows\Temp\nlpC96F.tmp
+Answers: ["Ali is a boy. \nPeter is bi. \nSandra is petite. \nThe sky is blue. \nJean is a girl."]
+Question: is the sky blue?
+Content file path: C:\Windows\Temp\nlp86A1.tmp
+Answers: ["Ali is a boy. \nPeter is bi. \nSandra is petite. \nThe sky is blue. \nJean is a girl."]
+Question: What is cloud computing?
+Content file path: C:\Windows\Temp\nlp73F3.tmp
+Answers: ["Ali is a boy. \nPeter is bi. \nSandra is petite. \nThe sky is blue. \nJean is a girl."]
+Question: What is cloud computing?
+Content file path: C:\Windows\Temp\nlp753C.tmp
+Question: What is cloud computing?
+Content file path: C:\Windows\Temp\nlp38C3.tmp
+Question: what colour is the sky?
+Content file path: C:\Windows\Temp\nlp703C.tmp
+Question: what colour is the sky?
+Content file path: C:\Windows\Temp\nlp7127.tmp
+Answers: ["Ali is a boy. \nPeter is bi. \nSandra is petite. \nThe sky is blue. \nJean is a girl."]
+Question: is the sky blue?
+Content file path: C:\Windows\Temp\nlp539E.tmp
+Question: is the sky blue?
+Content file path: C:\Windows\Temp\nlp55B2.tmp
+Answers: ["Ali is a boy. \nPeter is bi. \nSandra is petite. \nThe sky is blue. \nJean is a girl."]
+2024-10-30 18:01:04,407 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp6A2B.tmp
+2024-10-30 18:01:04,409 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp6A2B.tmp
+2024-10-30 18:01:04,410 - ERROR - PyMuPDF failed: Failed to open file 'C:\\Users\\Demo\\AppData\\Local\\Temp\\nlp6A2B.tmp'.
+2024-10-30 18:01:04,465 - ERROR - PyPDF2 also failed: EOF marker not found
+2024-10-30 18:01:04,465 - WARNING - No text was extracted from the PDF.
+2024-10-30 18:01:04,465 - WARNING - File content extraction failed or returned empty text.
+2024-10-30 18:01:04,465 - INFO - Loading NLP model.
+2024-10-30 18:01:07,425 - INFO - NLP processing started.
+2024-10-30 18:01:07,426 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 18:01:07,426 - WARNING - No relevant answer found.
+2024-10-30 18:01:11,909 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp8516.tmp
+2024-10-30 18:01:11,909 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp8516.tmp
+2024-10-30 18:01:11,910 - ERROR - PyMuPDF failed: Cannot open empty file: filename='C:\\Users\\Demo\\AppData\\Local\\Temp\\nlp8516.tmp'.
+2024-10-30 18:01:11,969 - ERROR - PyPDF2 also failed: Cannot read an empty file
+2024-10-30 18:01:11,969 - WARNING - No text was extracted from the PDF.
+2024-10-30 18:01:11,969 - WARNING - File content extraction failed or returned empty text.
+2024-10-30 18:01:11,969 - INFO - Loading NLP model.
+2024-10-30 18:01:14,842 - INFO - NLP processing started.
+2024-10-30 18:01:14,842 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 18:01:14,842 - WARNING - No relevant answer found.
+2024-10-30 22:46:08,362 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp6620.tmp
+2024-10-30 22:46:08,362 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp6620.tmp
+2024-10-30 22:46:08,371 - ERROR - PyMuPDF failed: Failed to open file 'C:\\Users\\Demo\\AppData\\Local\\Temp\\nlp6620.tmp'.
+2024-10-30 22:46:08,429 - ERROR - PyPDF2 also failed: EOF marker not found
+2024-10-30 22:46:08,430 - WARNING - No text was extracted from the PDF.
+2024-10-30 22:46:08,430 - WARNING - File content extraction failed or returned empty text.
+2024-10-30 22:46:08,430 - INFO - Loading NLP model.
+2024-10-30 22:46:11,983 - INFO - NLP processing started.
+2024-10-30 22:46:11,983 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 22:46:11,983 - WARNING - No relevant answer found.
+2024-10-30 22:46:16,113 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp83AC.tmp
+2024-10-30 22:46:16,113 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp83AC.tmp
+2024-10-30 22:46:16,113 - ERROR - File does not exist or is empty.
+2024-10-30 22:46:16,113 - WARNING - No text was extracted from the PDF.
+2024-10-30 22:46:16,113 - WARNING - File content extraction failed or returned empty text.
+2024-10-30 22:46:16,113 - INFO - Loading NLP model.
+2024-10-30 22:46:18,980 - INFO - NLP processing started.
+2024-10-30 22:46:18,980 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 22:46:18,980 - WARNING - No relevant answer found.
+2024-10-30 23:11:21,198 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6722af05d9f28\content.txt
+2024-10-30 23:11:21,198 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6722af05d9f28\content.txt
+2024-10-30 23:11:21,220 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-30 23:11:21,220 - INFO - Text successfully extracted from PDF.
+2024-10-30 23:11:21,220 - INFO - File content extracted successfully.
+2024-10-30 23:11:21,220 - INFO - Loading NLP model.
+2024-10-30 23:11:26,668 - INFO - NLP processing started.
+2024-10-30 23:11:26,670 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 23:11:26,670 - WARNING - No relevant answer found.
+2024-10-30 23:25:32,206 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6722b258b32ff\content.txt
+2024-10-30 23:25:32,206 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6722b258b32ff\content.txt
+2024-10-30 23:25:32,232 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-30 23:25:32,232 - INFO - Text successfully extracted from PDF.
+2024-10-30 23:25:32,232 - INFO - File content extracted successfully.
+2024-10-30 23:25:32,232 - INFO - Loading NLP model.
+2024-10-30 23:25:36,080 - INFO - NLP processing started.
+2024-10-30 23:25:36,081 - INFO - Best match based on similarity:  with similarity score 0
+2024-10-30 23:25:36,081 - WARNING - No relevant answer found.
+2024-10-30 23:51:38,809 - INFO - Starting process with question: AI components? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6722b8734869d\content.txt
+2024-10-30 23:51:38,809 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6722b8734869d\content.txt
+2024-10-30 23:51:38,828 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-30 23:51:38,828 - INFO - File content extracted successfully.
+2024-10-30 23:51:38,828 - INFO - Loading NLP model.
+2024-10-30 23:51:38,828 - INFO - Use pytorch device_name: cpu
+2024-10-30 23:51:38,828 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+2024-10-30 23:51:38,834 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-30 23:51:39,097 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-10-30 23:51:39,097 - DEBUG - Attempting to acquire lock 2092341247008 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2024-10-30 23:51:39,097 - DEBUG - Lock 2092341247008 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2024-10-30 23:51:39,231 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 349
+2024-10-30 23:51:39,271 - DEBUG - Attempting to release lock 2092341247008 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2024-10-30 23:51:39,273 - DEBUG - Lock 2092341247008 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2024-10-30 23:51:39,411 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-30 23:51:39,411 - DEBUG - Attempting to acquire lock 2092362964800 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2024-10-30 23:51:39,411 - DEBUG - Lock 2092362964800 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2024-10-30 23:51:39,545 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config_sentence_transformers.json HTTP/11" 200 116
+2024-10-30 23:51:39,563 - DEBUG - Attempting to release lock 2092362964800 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2024-10-30 23:51:39,563 - DEBUG - Lock 2092362964800 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2024-10-30 23:51:39,730 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 0
+2024-10-30 23:51:39,730 - DEBUG - Attempting to acquire lock 2092340980496 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\8cfec92309f5626a223304af2423e332f6d31887.lock
+2024-10-30 23:51:39,730 - DEBUG - Lock 2092340980496 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\8cfec92309f5626a223304af2423e332f6d31887.lock
+2024-10-30 23:51:39,896 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/README.md HTTP/11" 200 10659
+2024-10-30 23:51:39,903 - DEBUG - Attempting to release lock 2092340980496 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\8cfec92309f5626a223304af2423e332f6d31887.lock
+2024-10-30 23:51:39,904 - DEBUG - Lock 2092340980496 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\8cfec92309f5626a223304af2423e332f6d31887.lock
+2024-10-30 23:51:40,045 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/modules.json HTTP/11" 200 0
+2024-10-30 23:51:40,215 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-30 23:51:40,218 - DEBUG - Attempting to acquire lock 2092336556768 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\59d594003bf59880a884c574bf88ef7555bb0202.lock
+2024-10-30 23:51:40,218 - DEBUG - Lock 2092336556768 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\59d594003bf59880a884c574bf88ef7555bb0202.lock
+2024-10-30 23:51:40,478 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/sentence_bert_config.json HTTP/11" 200 53
+2024-10-30 23:51:40,501 - DEBUG - Attempting to release lock 2092336556768 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\59d594003bf59880a884c574bf88ef7555bb0202.lock
+2024-10-30 23:51:40,501 - DEBUG - Lock 2092336556768 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\59d594003bf59880a884c574bf88ef7555bb0202.lock
+2024-10-30 23:51:40,631 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 0
+2024-10-30 23:51:40,645 - DEBUG - Attempting to acquire lock 2092362973056 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\72b987fd805cfa2b58c4c8c952b274a11bfd5a00.lock
+2024-10-30 23:51:40,646 - DEBUG - Lock 2092362973056 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\72b987fd805cfa2b58c4c8c952b274a11bfd5a00.lock
+2024-10-30 23:51:40,788 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/config.json HTTP/11" 200 612
+2024-10-30 23:51:40,794 - DEBUG - Attempting to release lock 2092362973056 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\72b987fd805cfa2b58c4c8c952b274a11bfd5a00.lock
+2024-10-30 23:51:40,795 - DEBUG - Lock 2092362973056 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\72b987fd805cfa2b58c4c8c952b274a11bfd5a00.lock
+2024-10-30 23:51:41,103 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/model.safetensors HTTP/11" 302 0
+2024-10-30 23:51:41,105 - DEBUG - Attempting to acquire lock 2092364601616 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db.lock
+2024-10-30 23:51:41,105 - DEBUG - Lock 2092364601616 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db.lock
+2024-10-30 23:51:41,107 - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2024-10-30 23:51:41,197 - DEBUG - https://cdn-lfs.hf.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1730587506&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDU4NzUwNn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9zZW50ZW5jZS10cmFuc2Zvcm1lcnMvYWxsLU1pbmlMTS1MNi12Mi81M2FhNTExNzJkMTQyYzg5ZDkwMTJjY2UxNWFlNGQ2Y2MwY2E2ODk1ODk1MTE0Mzc5Y2FjYjRmYWIxMjhkOWRiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=DwY3INpRHpKv3lAAta~bG6r20xqSGroWsYj1jw1TBiTGbAp2fJytmHY4OyMEsdzmnr-q9YHbGEG0CRweFd9wjr0-eoqYzt27aJZEnku1qDdvaus5OGjSwFlZwWSdIgpadkv25LnjZVhEgIE-VpdA2J19khehUuOCsrFUQ86uIap50-Ad8amWhEpYNpePzdAuix6CCP2V8Ac7yuDFMtkqroVSYMyRSoT-~adpuf-rhy9nAEOD5tAO9~ZtT0ApZgprJD3O7Zz4fIWh6Z8yHjEACKn1uwnccPUHBK5qgYkBuD5-~lKwNROn3zIYj4WB9N4qfkxTSfZJOS-Q7tSol1y2gg__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/11" 200 90868376
+2024-10-30 23:51:43,474 - DEBUG - Attempting to release lock 2092364601616 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db.lock
+2024-10-30 23:51:43,474 - DEBUG - Lock 2092364601616 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\53aa51172d142c89d9012cce15ae4d6cc0ca6895895114379cacb4fab128d9db.lock
+2024-10-30 23:51:43,714 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-30 23:51:43,715 - DEBUG - Attempting to acquire lock 2092370334096 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\c79f2b6a0cea6f4b564fed1938984bace9d30ff0.lock
+2024-10-30 23:51:43,717 - DEBUG - Lock 2092370334096 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\c79f2b6a0cea6f4b564fed1938984bace9d30ff0.lock
+2024-10-30 23:51:43,855 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json HTTP/11" 200 350
+2024-10-30 23:51:43,858 - DEBUG - Attempting to release lock 2092370334096 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\c79f2b6a0cea6f4b564fed1938984bace9d30ff0.lock
+2024-10-30 23:51:43,858 - DEBUG - Lock 2092370334096 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\c79f2b6a0cea6f4b564fed1938984bace9d30ff0.lock
+2024-10-30 23:51:43,995 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/vocab.txt HTTP/11" 200 0
+2024-10-30 23:51:43,997 - DEBUG - Attempting to acquire lock 2092364608432 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-10-30 23:51:43,997 - DEBUG - Lock 2092364608432 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-10-30 23:51:44,129 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/vocab.txt HTTP/11" 200 231508
+2024-10-30 23:51:44,366 - DEBUG - Attempting to release lock 2092364608432 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-10-30 23:51:44,367 - DEBUG - Lock 2092364608432 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\fb140275c155a9c7c5a3b3e0e77a9e839594a938.lock
+2024-10-30 23:51:44,504 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer.json HTTP/11" 200 0
+2024-10-30 23:51:44,505 - DEBUG - Attempting to acquire lock 2092370340576 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\cb202bfe2e3c98645018a6d12f182a434c9d3e02.lock
+2024-10-30 23:51:44,505 - DEBUG - Lock 2092370340576 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\cb202bfe2e3c98645018a6d12f182a434c9d3e02.lock
+2024-10-30 23:51:44,635 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer.json HTTP/11" 200 466247
+2024-10-30 23:51:44,973 - DEBUG - Attempting to release lock 2092370340576 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\cb202bfe2e3c98645018a6d12f182a434c9d3e02.lock
+2024-10-30 23:51:44,973 - DEBUG - Lock 2092370340576 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\cb202bfe2e3c98645018a6d12f182a434c9d3e02.lock
+2024-10-30 23:51:45,098 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/added_tokens.json HTTP/11" 404 0
+2024-10-30 23:51:45,257 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json HTTP/11" 200 0
+2024-10-30 23:51:45,260 - DEBUG - Attempting to acquire lock 2092370332176 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\e7b0375001f109a6b8873d756ad4f7bbb15fbaa5.lock
+2024-10-30 23:51:45,262 - DEBUG - Lock 2092370332176 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\e7b0375001f109a6b8873d756ad4f7bbb15fbaa5.lock
+2024-10-30 23:51:45,467 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/main/special_tokens_map.json HTTP/11" 200 112
+2024-10-30 23:51:45,473 - DEBUG - Attempting to release lock 2092370332176 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\e7b0375001f109a6b8873d756ad4f7bbb15fbaa5.lock
+2024-10-30 23:51:45,473 - DEBUG - Lock 2092370332176 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\e7b0375001f109a6b8873d756ad4f7bbb15fbaa5.lock
+2024-10-30 23:51:45,649 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2/revision/main HTTP/11" 200 6560
+2024-10-30 23:51:45,669 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-30 23:51:46,062 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-MiniLM-L6-v2/resolve/ea78891063587eb050ed4166b20062eaf978037c/1_Pooling/config.json HTTP/11" 200 0
+2024-10-30 23:51:46,065 - DEBUG - Attempting to acquire lock 2092370918912 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\d1514c3162bbe87b343f565fadc62e6c06f04f03.lock
+2024-10-30 23:51:46,065 - DEBUG - Lock 2092370918912 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\d1514c3162bbe87b343f565fadc62e6c06f04f03.lock
+2024-10-30 23:51:46,427 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-MiniLM-L6-v2/resolve/ea78891063587eb050ed4166b20062eaf978037c/1_Pooling/config.json HTTP/11" 200 190
+2024-10-30 23:51:46,433 - DEBUG - Attempting to release lock 2092370918912 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\d1514c3162bbe87b343f565fadc62e6c06f04f03.lock
+2024-10-30 23:51:46,433 - DEBUG - Lock 2092370918912 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--all-MiniLM-L6-v2\d1514c3162bbe87b343f565fadc62e6c06f04f03.lock
+2024-10-30 23:51:46,578 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-MiniLM-L6-v2 HTTP/11" 200 6560
+2024-10-30 23:51:46,578 - INFO - NLP model loaded successfully.
+2024-10-30 23:51:47,777 - INFO - Best match based on similarity: 'Key
+components of AI include: 
+Machine Learning (ML) – A subset of AI, ML enables
+systems to learn from 
+data patterns and improve over time without explicit
+programming' with similarity score 0.6341849565505981
+2024-10-31 19:41:05,802 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723cf385470f\content.txt
+2024-10-31 19:41:05,802 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723cf385470f\content.txt
+2024-10-31 19:41:05,836 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 19:41:05,836 - INFO - File content extracted successfully.
+2024-10-31 19:41:05,836 - INFO - Loading NLP model.
+2024-10-31 19:41:05,837 - INFO - Use pytorch device_name: cpu
+2024-10-31 19:41:05,837 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 19:41:05,840 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 19:41:06,178 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:41:06,184 - DEBUG - Attempting to acquire lock 1903855426864 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-10-31 19:41:06,187 - DEBUG - Lock 1903855426864 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-10-31 19:41:06,387 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 229
+2024-10-31 19:41:06,436 - DEBUG - Attempting to release lock 1903855426864 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-10-31 19:41:06,436 - DEBUG - Lock 1903855426864 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-10-31 19:41:06,571 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 19:41:06,594 - DEBUG - Attempting to acquire lock 1903859802736 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-10-31 19:41:06,595 - DEBUG - Lock 1903859802736 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-10-31 19:41:06,735 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 212
+2024-10-31 19:41:06,740 - DEBUG - Attempting to release lock 1903859802736 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-10-31 19:41:06,741 - DEBUG - Lock 1903859802736 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-10-31 19:41:06,884 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 19:41:06,898 - DEBUG - Attempting to acquire lock 1903858835024 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-10-31 19:41:06,898 - DEBUG - Lock 1903858835024 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-10-31 19:41:07,037 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 8714
+2024-10-31 19:41:07,052 - DEBUG - Attempting to release lock 1903858835024 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-10-31 19:41:07,053 - DEBUG - Lock 1903858835024 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-10-31 19:41:07,218 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:41:07,373 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 19:41:07,373 - DEBUG - Attempting to acquire lock 1903883184192 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-10-31 19:41:07,385 - DEBUG - Lock 1903883184192 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-10-31 19:41:07,517 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 53
+2024-10-31 19:41:07,535 - DEBUG - Attempting to release lock 1903883184192 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-10-31 19:41:07,536 - DEBUG - Lock 1903883184192 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-10-31 19:41:07,684 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 19:41:07,684 - DEBUG - Attempting to acquire lock 1903853927984 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-10-31 19:41:07,684 - DEBUG - Lock 1903853927984 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-10-31 19:41:07,836 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 571
+2024-10-31 19:41:07,849 - DEBUG - Attempting to release lock 1903853927984 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-10-31 19:41:07,851 - DEBUG - Lock 1903853927984 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-10-31 19:41:08,251 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/model.safetensors HTTP/11" 302 0
+2024-10-31 19:41:08,251 - DEBUG - Attempting to acquire lock 1903889542240 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-10-31 19:41:08,251 - DEBUG - Lock 1903889542240 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-10-31 19:41:08,251 - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2024-10-31 19:41:08,369 - DEBUG - https://cdn-lfs.hf.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1730659005&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMDY1OTAwNX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9zZW50ZW5jZS10cmFuc2Zvcm1lcnMvbXVsdGktcWEtbXBuZXQtYmFzZS1kb3QtdjEvZDAzMzhkNzM4NWUyNzE3Y2E0ZWRkYjdiYmVjM2I5OTUwZDNiOGRmZjQ3ZGVkZWYwYWQ1NTZkMWMzMTQwNzZiZj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=fUGPosNmnlhV4DfPmvRO6XAvNAU5K84ncSRRDT91Oel7xmUlAd5ObsVCLHo3NMsmfeU9FiP78oPOMHGwkYduC4uj2HHVSn5aM0sfMdoKmDN6t1sTd5eaLciwh-5trDf0h2PHReeguL32A0FKwUj0n1QwSngU-VObT0OlDBPp6N3opew1~FDe7xtR20tddUIxuePJzlZQp12Pjm2eJsKcDaNoFav3mVHbA0QNyOpFRphsjOus8ZQaNYTLFxs~-Qq-LZ5dnsjUrMayk3bGz5ZVIzySIXqkpjv6cYlCRafUsz-nApevvQ0UBeoyW7EO7WrmhGvTnnYZN6L4Rlo4hsimvQ__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/11" 200 437971872
+2024-10-31 19:41:17,695 - DEBUG - Attempting to release lock 1903889542240 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-10-31 19:41:17,695 - DEBUG - Lock 1903889542240 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-10-31 19:41:19,144 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 19:41:19,159 - DEBUG - Attempting to acquire lock 1903848612032 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-10-31 19:41:19,159 - DEBUG - Lock 1903848612032 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-10-31 19:41:19,316 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 363
+2024-10-31 19:41:19,316 - DEBUG - Attempting to release lock 1903848612032 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-10-31 19:41:19,316 - DEBUG - Lock 1903848612032 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-10-31 19:41:19,489 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/vocab.txt HTTP/11" 200 0
+2024-10-31 19:41:19,492 - DEBUG - Attempting to acquire lock 1903884166272 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-10-31 19:41:19,492 - DEBUG - Lock 1903884166272 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-10-31 19:41:19,642 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/vocab.txt HTTP/11" 200 231536
+2024-10-31 19:41:19,868 - DEBUG - Attempting to release lock 1903884166272 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-10-31 19:41:19,868 - DEBUG - Lock 1903884166272 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-10-31 19:41:20,073 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer.json HTTP/11" 200 0
+2024-10-31 19:41:20,078 - DEBUG - Attempting to acquire lock 1903889314304 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-10-31 19:41:20,079 - DEBUG - Lock 1903889314304 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-10-31 19:41:20,235 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer.json HTTP/11" 200 466021
+2024-10-31 19:41:20,352 - DEBUG - Attempting to release lock 1903889314304 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-10-31 19:41:20,352 - DEBUG - Lock 1903889314304 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-10-31 19:41:20,484 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/added_tokens.json HTTP/11" 404 0
+2024-10-31 19:41:20,634 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/special_tokens_map.json HTTP/11" 200 0
+2024-10-31 19:41:20,636 - DEBUG - Attempting to acquire lock 1903889852816 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-10-31 19:41:20,636 - DEBUG - Lock 1903889852816 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-10-31 19:41:20,770 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/special_tokens_map.json HTTP/11" 200 239
+2024-10-31 19:41:20,770 - DEBUG - Attempting to release lock 1903889852816 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-10-31 19:41:20,770 - DEBUG - Lock 1903889852816 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-10-31 19:41:20,998 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 19:41:21,032 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 19:41:21,216 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/bc0175d50b67121e4a5189c4fa864aff3e58eb6c/1_Pooling/config.json HTTP/11" 200 0
+2024-10-31 19:41:21,219 - DEBUG - Attempting to acquire lock 1903891095360 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-10-31 19:41:21,219 - DEBUG - Lock 1903891095360 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-10-31 19:41:21,351 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/bc0175d50b67121e4a5189c4fa864aff3e58eb6c/1_Pooling/config.json HTTP/11" 200 190
+2024-10-31 19:41:21,365 - DEBUG - Attempting to release lock 1903891095360 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-10-31 19:41:21,365 - DEBUG - Lock 1903891095360 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-10-31 19:41:21,523 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 19:41:21,536 - INFO - NLP model loaded successfully.
+2024-10-31 19:41:24,210 - INFO - Best matches based on similarity: ["Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks typically requiring human intelligence. These tasks include recognizing speech, interpreting images, solving problems, and making decisions. AI can be broadly divided into two categories: narrow AI, designed for specific tasks like language translation or facial recognition, and general AI, which aims to understand and learn from any task as a human would (though this level of AI remains theoretical). AI technologies, such as machine learning, natural language processing, and robotics, impact various industries by automating repetitive tasks, enhancing data analysis, and improving customer service. AI's growing role in daily life raises questions about ethics, job displacement, and regulation. Artificial Intelligence (AI) is a rapidly advancing field that seeks to emulate human cognitive functions, such as learning, reasoning, problem-solving, and creativity, through computers and machines. Key components of AI include: Machine Learning (ML) – A subset of AI, ML enables systems to learn from data patterns and improve over time without explicit programming. Common applications include recommendation engines, predictive analytics, and fraud detection. Natural Language Processing (NLP) – NLP allows machines to understand, interpret, and respond to human language. Applications like chatbots, translation services, and sentiment analysis rely on NLP to bridge communication between humans and machines. Computer Vision – This branch enables machines to interpret visual data from the world, such as images and videos. It is widely used in facial recognition, medical image analysis, and autonomous driving. Robotics – Robotics combines AI with mechanical engineering to create machines that can perform complex tasks, from manufacturing and warehouse operations to delicate surgeries and even space exploration. Neural Networks and Deep Learning – Inspired by the human brain, neural networks are a core technology in AI. Deep learning, a form of neural networking, uses multiple layers to analyze complex data and powers technologies like image recognition, speech-to-text, and even language generation. Real-World Applications and Economic Impact AI is transforming industries across the board, from healthcare (predictive diagnostics and personalized medicine) to finance (automated trading and risk management) and beyond. In manufacturing, AI-driven automation increases productivity, while in retail, AI enhances personalized marketing. Economically, AI has the potential to increase productivity and drive innovation, though it also poses challenges, such as job displacement in some sectors. Ethical and Social Considerations As AI systems become more integrated into society, questions about bias, privacy, accountability, and transparency grow. Ensuring responsible AI use involves creating regulations to prevent misuse, promoting ethical AI development, and establishing frameworks that prioritize fairness and inclusivity. The Future of AI The future of AI holds exciting possibilities, including advancements in general AI, where machines might achieve a level of intelligence comparable to humans. Continued research in AI ethics, safety, and governance will be crucial to ensuring that AI benefits society as a whole while minimizing potential risks."]
+2024-10-31 19:43:21,753 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723cfc4eb3a3\content.txt
+2024-10-31 19:43:21,753 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723cfc4eb3a3\content.txt
+2024-10-31 19:43:21,766 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 19:43:21,766 - INFO - File content extracted successfully.
+2024-10-31 19:43:21,766 - INFO - Loading NLP model.
+2024-10-31 19:43:21,766 - INFO - Use pytorch device_name: cpu
+2024-10-31 19:43:21,766 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 19:43:21,766 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 19:43:22,234 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:43:22,594 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 19:43:22,749 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 19:43:23,116 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:43:23,255 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 19:43:23,394 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 19:43:25,076 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 19:43:25,274 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 19:43:25,434 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 19:43:25,455 - INFO - NLP model loaded successfully.
+2024-10-31 19:43:27,649 - INFO - Best matches based on similarity: ["Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks typically requiring human intelligence. These tasks include recognizing speech, interpreting images, solving problems, and making decisions. AI can be broadly divided into two categories: narrow AI, designed for specific tasks like language translation or facial recognition, and general AI, which aims to understand and learn from any task as a human would (though this level of AI remains theoretical). AI technologies, such as machine learning, natural language processing, and robotics, impact various industries by automating repetitive tasks, enhancing data analysis, and improving customer service. AI's growing role in daily life raises questions about ethics, job displacement, and regulation. Artificial Intelligence (AI) is a rapidly advancing field that seeks to emulate human cognitive functions, such as learning, reasoning, problem-solving, and creativity, through computers and machines. Key components of AI include: Machine Learning (ML) – A subset of AI, ML enables systems to learn from data patterns and improve over time without explicit programming. Common applications include recommendation engines, predictive analytics, and fraud detection. Natural Language Processing (NLP) – NLP allows machines to understand, interpret, and respond to human language. Applications like chatbots, translation services, and sentiment analysis rely on NLP to bridge communication between humans and machines. Computer Vision – This branch enables machines to interpret visual data from the world, such as images and videos. It is widely used in facial recognition, medical image analysis, and autonomous driving. Robotics – Robotics combines AI with mechanical engineering to create machines that can perform complex tasks, from manufacturing and warehouse operations to delicate surgeries and even space exploration. Neural Networks and Deep Learning – Inspired by the human brain, neural networks are a core technology in AI. Deep learning, a form of neural networking, uses multiple layers to analyze complex data and powers technologies like image recognition, speech-to-text, and even language generation. Real-World Applications and Economic Impact AI is transforming industries across the board, from healthcare (predictive diagnostics and personalized medicine) to finance (automated trading and risk management) and beyond. In manufacturing, AI-driven automation increases productivity, while in retail, AI enhances personalized marketing. Economically, AI has the potential to increase productivity and drive innovation, though it also poses challenges, such as job displacement in some sectors. Ethical and Social Considerations As AI systems become more integrated into society, questions about bias, privacy, accountability, and transparency grow. Ensuring responsible AI use involves creating regulations to prevent misuse, promoting ethical AI development, and establishing frameworks that prioritize fairness and inclusivity. The Future of AI The future of AI holds exciting possibilities, including advancements in general AI, where machines might achieve a level of intelligence comparable to humans. Continued research in AI ethics, safety, and governance will be crucial to ensuring that AI benefits society as a whole while minimizing potential risks."]
+2024-10-31 19:49:48,249 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723d14720525\content.txt
+2024-10-31 19:49:48,249 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723d14720525\content.txt
+2024-10-31 19:49:48,269 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 19:49:48,269 - INFO - File content extracted successfully.
+2024-10-31 19:49:48,269 - INFO - Loading NLP model.
+2024-10-31 19:49:48,270 - INFO - Use pytorch device_name: cpu
+2024-10-31 19:49:48,270 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 19:49:48,272 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 19:49:48,479 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:49:48,623 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 19:49:48,768 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 19:49:48,909 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:49:49,051 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 19:49:49,195 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 19:49:50,806 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 19:49:50,993 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 19:49:51,204 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 19:49:51,208 - INFO - NLP model loaded successfully.
+2024-10-31 19:49:53,399 - INFO - Best matches based on similarity: ["Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks typically requiring human intelligence. These tasks include recognizing speech, interpreting images, solving problems, and making decisions. AI can be broadly divided into two categories: narrow AI, designed for specific tasks like language translation or facial recognition, and general AI, which aims to understand and learn from any task as a human would (though this level of AI remains theoretical). AI technologies, such as machine learning, natural language processing, and robotics, impact various industries by automating repetitive tasks, enhancing data analysis, and improving customer service. AI's growing role in daily life raises questions about ethics, job displacement, and regulation. Artificial Intelligence (AI) is a rapidly advancing field that seeks to emulate human cognitive functions, such as learning, reasoning, problem-solving, and creativity, through computers and machines. Key components of AI include: Machine Learning (ML) – A subset of AI, ML enables systems to learn from data patterns and improve over time without explicit programming. Common applications include recommendation engines, predictive analytics, and fraud detection. Natural Language Processing (NLP) – NLP allows machines to understand, interpret, and respond to human language. Applications like chatbots, translation services, and sentiment analysis rely on NLP to bridge communication between humans and machines. Computer Vision – This branch enables machines to interpret visual data from the world, such as images and videos. It is widely used in facial recognition, medical image analysis, and autonomous driving. Robotics – Robotics combines AI with mechanical engineering to create machines that can perform complex tasks, from manufacturing and warehouse operations to delicate surgeries and even space exploration. Neural Networks and Deep Learning – Inspired by the human brain, neural networks are a core technology in AI. Deep learning, a form of neural networking, uses multiple layers to analyze complex data and powers technologies like image recognition, speech-to-text, and even language generation. Real-World Applications and Economic Impact AI is transforming industries across the board, from healthcare (predictive diagnostics and personalized medicine) to finance (automated trading and risk management) and beyond. In manufacturing, AI-driven automation increases productivity, while in retail, AI enhances personalized marketing. Economically, AI has the potential to increase productivity and drive innovation, though it also poses challenges, such as job displacement in some sectors. Ethical and Social Considerations As AI systems become more integrated into society, questions about bias, privacy, accountability, and transparency grow. Ensuring responsible AI use involves creating regulations to prevent misuse, promoting ethical AI development, and establishing frameworks that prioritize fairness and inclusivity. The Future of AI The future of AI holds exciting possibilities, including advancements in general AI, where machines might achieve a level of intelligence comparable to humans. Continued research in AI ethics, safety, and governance will be crucial to ensuring that AI benefits society as a whole while minimizing potential risks."]
+2024-10-31 19:50:24,140 - INFO - Starting process with question: what is AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723d16b501fc\content.txt
+2024-10-31 19:50:24,140 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723d16b501fc\content.txt
+2024-10-31 19:50:24,158 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 19:50:24,159 - INFO - File content extracted successfully.
+2024-10-31 19:50:24,159 - INFO - Loading NLP model.
+2024-10-31 19:50:24,159 - INFO - Use pytorch device_name: cpu
+2024-10-31 19:50:24,159 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 19:50:24,159 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 19:50:24,341 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:50:24,510 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 19:50:24,651 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 19:50:24,794 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 19:50:25,144 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 19:50:25,508 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 19:50:26,591 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 19:50:26,784 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 19:50:26,958 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 19:50:26,979 - INFO - NLP model loaded successfully.
+2024-10-31 19:50:28,846 - INFO - Best matches based on similarity: ["Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks typically requiring human intelligence. These tasks include recognizing speech, interpreting images, solving problems, and making decisions. AI can be broadly divided into two categories: narrow AI, designed for specific tasks like language translation or facial recognition, and general AI, which aims to understand and learn from any task as a human would (though this level of AI remains theoretical). AI technologies, such as machine learning, natural language processing, and robotics, impact various industries by automating repetitive tasks, enhancing data analysis, and improving customer service. AI's growing role in daily life raises questions about ethics, job displacement, and regulation. Artificial Intelligence (AI) is a rapidly advancing field that seeks to emulate human cognitive functions, such as learning, reasoning, problem-solving, and creativity, through computers and machines. Key components of AI include: Machine Learning (ML) – A subset of AI, ML enables systems to learn from data patterns and improve over time without explicit programming. Common applications include recommendation engines, predictive analytics, and fraud detection. Natural Language Processing (NLP) – NLP allows machines to understand, interpret, and respond to human language. Applications like chatbots, translation services, and sentiment analysis rely on NLP to bridge communication between humans and machines. Computer Vision – This branch enables machines to interpret visual data from the world, such as images and videos. It is widely used in facial recognition, medical image analysis, and autonomous driving. Robotics – Robotics combines AI with mechanical engineering to create machines that can perform complex tasks, from manufacturing and warehouse operations to delicate surgeries and even space exploration. Neural Networks and Deep Learning – Inspired by the human brain, neural networks are a core technology in AI. Deep learning, a form of neural networking, uses multiple layers to analyze complex data and powers technologies like image recognition, speech-to-text, and even language generation. Real-World Applications and Economic Impact AI is transforming industries across the board, from healthcare (predictive diagnostics and personalized medicine) to finance (automated trading and risk management) and beyond. In manufacturing, AI-driven automation increases productivity, while in retail, AI enhances personalized marketing. Economically, AI has the potential to increase productivity and drive innovation, though it also poses challenges, such as job displacement in some sectors. Ethical and Social Considerations As AI systems become more integrated into society, questions about bias, privacy, accountability, and transparency grow. Ensuring responsible AI use involves creating regulations to prevent misuse, promoting ethical AI development, and establishing frameworks that prioritize fairness and inclusivity. The Future of AI The future of AI holds exciting possibilities, including advancements in general AI, where machines might achieve a level of intelligence comparable to humans. Continued research in AI ethics, safety, and governance will be crucial to ensuring that AI benefits society as a whole while minimizing potential risks."]
+2024-10-31 20:08:16,024 - INFO - Starting process with question: what is the future of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723d59a9ba23\content.txt
+2024-10-31 20:08:16,024 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723d59a9ba23\content.txt
+2024-10-31 20:08:16,040 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:08:16,040 - INFO - File content extracted successfully.
+2024-10-31 20:08:16,040 - INFO - Loading NLP model.
+2024-10-31 20:08:16,040 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:08:16,040 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:08:16,040 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:08:16,245 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:08:16,385 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:08:16,524 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:08:16,669 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:08:16,807 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:08:16,942 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:08:18,756 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:08:19,007 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:08:19,194 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:08:19,194 - INFO - NLP model loaded successfully.
+2024-10-31 20:08:21,846 - INFO - Best matches based on similarity: ['\nThe Future of AI \nThe future of AI holds exciting possibilities,\nincluding advancements in general \nAI, where machines might achieve a level of\nintelligence comparable to humans', 'Economically, \nAI has the potential to increase productivity and\ndrive innovation, though it also \nposes challenges, such as job displacement in some\nsectors', "AI's\ngrowing role in daily life raises \nquestions about ethics, job displacement, and\nregulation"]
+2024-10-31 20:23:12,468 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723d91796ec2\content.txt
+2024-10-31 20:23:12,468 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723d91796ec2\content.txt
+2024-10-31 20:23:12,475 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:23:12,475 - INFO - File content extracted successfully.
+2024-10-31 20:23:12,475 - INFO - Loading NLP model.
+2024-10-31 20:23:12,475 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:23:12,475 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:23:12,475 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:23:12,708 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:23:12,873 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:23:13,032 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:23:13,185 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:23:13,324 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:23:13,491 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:23:14,449 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:23:14,641 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:23:14,818 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:23:14,827 - INFO - NLP model loaded successfully.
+2024-10-31 20:23:17,140 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-10-31 20:23:21,771 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723d925b0c0c\content.txt
+2024-10-31 20:23:21,771 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723d925b0c0c\content.txt
+2024-10-31 20:23:21,774 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:23:21,774 - INFO - File content extracted successfully.
+2024-10-31 20:23:21,774 - INFO - Loading NLP model.
+2024-10-31 20:23:21,774 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:23:21,774 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:23:21,774 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:23:21,961 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:23:22,105 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:23:22,242 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:23:22,379 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:23:22,525 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:23:22,665 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:23:23,224 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:23:23,396 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:23:23,541 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:23:23,541 - INFO - NLP model loaded successfully.
+2024-10-31 20:23:25,663 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-10-31 20:40:46,907 - INFO - Starting process with question: what is the future of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723dd39942ca\content.txt
+2024-10-31 20:40:46,907 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723dd39942ca\content.txt
+2024-10-31 20:40:46,944 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:40:46,944 - INFO - File content extracted successfully.
+2024-10-31 20:40:46,944 - INFO - Loading NLP model.
+2024-10-31 20:40:46,945 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:40:46,945 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:40:46,948 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:40:47,175 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:40:47,323 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:40:47,476 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:40:47,889 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:40:48,042 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:40:48,190 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:40:50,141 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:40:50,389 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:40:50,581 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:40:50,603 - INFO - NLP model loaded successfully.
+2024-10-31 20:40:52,970 - INFO - Best matches based on similarity: ['\nThe Future of AI \nThe future of AI holds exciting possibilities,\nincluding advancements in general \nAI, where machines might achieve a level of\nintelligence comparable to humans', 'Economically, \nAI has the potential to increase productivity and\ndrive innovation, though it also \nposes challenges, such as job displacement in some\nsectors', "AI's\ngrowing role in daily life raises \nquestions about ethics, job displacement, and\nregulation"]
+2024-10-31 20:41:23,805 - INFO - Starting process with question: what is the future of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723dd5f1fa0a\content.txt
+2024-10-31 20:41:23,805 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723dd5f1fa0a\content.txt
+2024-10-31 20:41:23,827 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:41:23,827 - INFO - File content extracted successfully.
+2024-10-31 20:41:23,827 - INFO - Loading NLP model.
+2024-10-31 20:41:23,839 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:41:23,839 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:41:23,841 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:41:24,225 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:41:24,583 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:41:24,725 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:41:24,872 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:41:25,013 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:41:25,392 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:41:26,399 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:41:26,624 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:41:26,773 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:41:26,789 - INFO - NLP model loaded successfully.
+2024-10-31 20:41:28,900 - INFO - Best matches based on similarity: ['\nThe Future of AI \nThe future of AI holds exciting possibilities,\nincluding advancements in general \nAI, where machines might achieve a level of\nintelligence comparable to humans', 'Economically, \nAI has the potential to increase productivity and\ndrive innovation, though it also \nposes challenges, such as job displacement in some\nsectors', "AI's\ngrowing role in daily life raises \nquestions about ethics, job displacement, and\nregulation"]
+2024-10-31 20:41:54,239 - INFO - Starting process with question: what is the future of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723dd7db1a66\content.txt
+2024-10-31 20:41:54,239 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723dd7db1a66\content.txt
+2024-10-31 20:41:54,239 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:41:54,239 - INFO - File content extracted successfully.
+2024-10-31 20:41:54,239 - INFO - Loading NLP model.
+2024-10-31 20:41:54,239 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:41:54,239 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:41:54,256 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:41:54,469 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:41:54,836 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:41:55,188 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:41:55,337 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:41:55,475 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:41:55,622 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:41:56,198 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:41:56,359 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:41:56,507 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:41:56,507 - INFO - NLP model loaded successfully.
+2024-10-31 20:41:58,606 - INFO - Best matches based on similarity: ['\nThe Future of AI \nThe future of AI holds exciting possibilities,\nincluding advancements in general \nAI, where machines might achieve a level of\nintelligence comparable to humans', 'Economically, \nAI has the potential to increase productivity and\ndrive innovation, though it also \nposes challenges, such as job displacement in some\nsectors', "AI's\ngrowing role in daily life raises \nquestions about ethics, job displacement, and\nregulation"]
+2024-10-31 20:50:22,322 - INFO - Starting process with question: what is the future of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6723df7a4dc77\content.txt
+2024-10-31 20:50:22,322 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6723df7a4dc77\content.txt
+2024-10-31 20:50:22,327 - INFO - PDF text extraction with PyMuPDF successful.
+2024-10-31 20:50:22,327 - INFO - File content extracted successfully.
+2024-10-31 20:50:22,327 - INFO - Loading NLP model.
+2024-10-31 20:50:22,331 - INFO - Use pytorch device_name: cpu
+2024-10-31 20:50:22,331 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-10-31 20:50:22,335 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-10-31 20:50:22,663 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:50:22,815 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-10-31 20:50:23,123 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-10-31 20:50:23,297 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-10-31 20:50:23,449 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-10-31 20:50:23,896 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-10-31 20:50:24,588 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-10-31 20:50:24,878 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-10-31 20:50:25,048 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-10-31 20:50:25,048 - INFO - NLP model loaded successfully.
+2024-10-31 20:50:27,099 - INFO - Best matches based on similarity: ['\nThe Future of AI \nThe future of AI holds exciting possibilities,\nincluding advancements in general \nAI, where machines might achieve a level of\nintelligence comparable to humans', 'Economically, \nAI has the potential to increase productivity and\ndrive innovation, though it also \nposes challenges, such as job displacement in some\nsectors', "AI's\ngrowing role in daily life raises \nquestions about ethics, job displacement, and\nregulation"]
+2024-11-01 13:42:36,300 - INFO - Starting process with question: What is AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724ccb12b058\content.txt
+2024-11-01 13:42:36,300 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724ccb12b058\content.txt
+2024-11-01 13:42:36,326 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 13:42:36,326 - INFO - File content extracted successfully.
+2024-11-01 13:42:36,326 - INFO - Loading NLP model.
+2024-11-01 13:42:36,328 - INFO - Use pytorch device_name: cpu
+2024-11-01 13:42:36,328 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 13:42:36,330 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 13:42:36,561 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:42:36,882 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 13:42:37,189 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 13:42:37,496 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:42:37,805 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 13:42:38,111 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 13:42:40,077 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 13:42:40,570 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 13:42:40,877 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 13:42:40,896 - INFO - NLP model loaded successfully.
+2024-11-01 13:42:43,817 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-01 13:44:45,362 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724cd37ef157\content.txt
+2024-11-01 13:44:45,362 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724cd37ef157\content.txt
+2024-11-01 13:44:45,367 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 13:44:45,367 - INFO - File content extracted successfully.
+2024-11-01 13:44:45,367 - INFO - Loading NLP model.
+2024-11-01 13:44:45,369 - INFO - Use pytorch device_name: cpu
+2024-11-01 13:44:45,369 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 13:44:45,372 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 13:44:45,578 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:44:45,721 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 13:44:45,858 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 13:44:46,001 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:44:46,152 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 13:44:46,420 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 13:44:48,577 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 13:44:48,980 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 13:44:49,224 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 13:44:49,243 - INFO - NLP model loaded successfully.
+2024-11-01 13:44:51,908 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-01 13:46:53,186 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724cdb7c580e\content.txt
+2024-11-01 13:46:53,187 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724cdb7c580e\content.txt
+2024-11-01 13:46:53,206 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 13:46:53,207 - INFO - File content extracted successfully.
+2024-11-01 13:46:53,207 - INFO - Loading NLP model.
+2024-11-01 13:46:53,208 - INFO - Use pytorch device_name: cpu
+2024-11-01 13:46:53,208 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 13:46:53,210 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 13:46:53,439 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:46:53,591 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 13:46:53,910 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 13:46:54,217 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 13:46:54,525 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 13:46:54,832 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 13:46:56,368 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 13:46:56,778 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 13:46:57,084 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 13:46:57,095 - INFO - NLP model loaded successfully.
+2024-11-01 13:46:59,623 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-01 14:07:14,641 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724d27caa0de\content.txt
+2024-11-01 14:07:14,641 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724d27caa0de\content.txt
+2024-11-01 14:07:14,664 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 14:07:14,664 - INFO - File content extracted successfully.
+2024-11-01 14:07:14,664 - INFO - Loading NLP model.
+2024-11-01 14:07:14,665 - INFO - Use pytorch device_name: cpu
+2024-11-01 14:07:14,665 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 14:07:14,668 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 14:07:14,899 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:07:15,040 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 14:07:15,360 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 14:07:15,667 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:07:15,974 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 14:07:16,145 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 14:07:18,021 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 14:07:18,330 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 14:07:18,636 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 14:07:18,645 - INFO - NLP model loaded successfully.
+2024-11-01 14:07:21,121 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-01 14:30:58,905 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724d80e90ccb\content.txt
+2024-11-01 14:30:58,905 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724d80e90ccb\content.txt
+2024-11-01 14:30:58,905 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 14:30:58,905 - INFO - File content extracted successfully.
+2024-11-01 14:30:58,905 - INFO - Loading NLP model.
+2024-11-01 14:30:58,905 - INFO - Use pytorch device_name: cpu
+2024-11-01 14:30:58,905 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 14:30:58,905 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 14:31:09,926 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:31:10,101 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 14:31:10,294 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 14:31:10,447 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:31:10,584 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 14:31:10,724 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 14:31:12,268 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 14:31:13,355 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 14:31:13,573 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 14:31:13,640 - INFO - NLP model loaded successfully.
+2024-11-01 14:31:16,168 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-01 14:44:21,583 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6724db2e8483b\content.txt
+2024-11-01 14:44:21,583 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6724db2e8483b\content.txt
+2024-11-01 14:44:21,604 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-01 14:44:21,604 - INFO - File content extracted successfully.
+2024-11-01 14:44:21,604 - INFO - Loading NLP model.
+2024-11-01 14:44:21,604 - INFO - Use pytorch device_name: cpu
+2024-11-01 14:44:21,604 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-01 14:44:21,604 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-01 14:44:21,804 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:44:21,937 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-01 14:44:22,117 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-01 14:44:22,255 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-01 14:44:22,438 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-01 14:44:22,590 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-01 14:44:24,229 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-01 14:44:24,406 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5278
+2024-11-01 14:44:24,550 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5278
+2024-11-01 14:44:24,559 - INFO - NLP model loaded successfully.
+2024-11-01 14:44:27,086 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-09 23:24:21,251 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_672fe0fc8d619\content.txt
+2024-11-09 23:24:21,251 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_672fe0fc8d619\content.txt
+2024-11-09 23:24:21,267 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-09 23:24:21,267 - INFO - File content extracted successfully.
+2024-11-09 23:24:21,267 - INFO - Loading NLP model.
+2024-11-09 23:24:21,283 - INFO - Use pytorch device_name: cpu
+2024-11-09 23:24:21,283 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-09 23:24:21,283 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-09 23:24:21,582 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:24:21,598 - DEBUG - Attempting to acquire lock 2098989719360 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-11-09 23:24:21,598 - DEBUG - Lock 2098989719360 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-11-09 23:24:21,803 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 229
+2024-11-09 23:24:21,835 - DEBUG - Attempting to release lock 2098989719360 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-11-09 23:24:21,851 - DEBUG - Lock 2098989719360 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f7640f94e81bb7f4f04daf1668850b38763a13d9.lock
+2024-11-09 23:24:22,008 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-09 23:24:22,023 - DEBUG - Attempting to acquire lock 2098992963872 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-11-09 23:24:22,030 - DEBUG - Lock 2098992963872 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-11-09 23:24:22,212 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 212
+2024-11-09 23:24:22,212 - DEBUG - Attempting to release lock 2098992963872 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-11-09 23:24:22,212 - DEBUG - Lock 2098992963872 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\603924ec712207f1bf1635f26ceef820b3bfc4e2.lock
+2024-11-09 23:24:22,417 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-09 23:24:22,423 - DEBUG - Attempting to acquire lock 2099018316640 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-11-09 23:24:22,423 - DEBUG - Lock 2099018316640 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-11-09 23:24:22,620 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 8714
+2024-11-09 23:24:22,637 - DEBUG - Attempting to release lock 2099018316640 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-11-09 23:24:22,639 - DEBUG - Lock 2099018316640 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\35bd6b71bada6e6736cbedcd8cdbcc8313c468df.lock
+2024-11-09 23:24:22,825 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:24:23,039 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-09 23:24:23,039 - DEBUG - Attempting to acquire lock 2098983607024 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-11-09 23:24:23,039 - DEBUG - Lock 2098983607024 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-11-09 23:24:23,239 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 53
+2024-11-09 23:24:23,246 - DEBUG - Attempting to release lock 2098983607024 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-11-09 23:24:23,246 - DEBUG - Lock 2098983607024 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\f789d99277496b282d19020415c5ba9ca79ac875.lock
+2024-11-09 23:24:23,440 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-09 23:24:23,451 - DEBUG - Attempting to acquire lock 2099013549280 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-11-09 23:24:23,451 - DEBUG - Lock 2099013549280 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-11-09 23:24:23,657 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 571
+2024-11-09 23:24:23,661 - DEBUG - Attempting to release lock 2099013549280 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-11-09 23:24:23,661 - DEBUG - Lock 2099013549280 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2024-11-09 23:24:24,261 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/model.safetensors HTTP/11" 302 0
+2024-11-09 23:24:24,261 - DEBUG - Attempting to acquire lock 2099023620640 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-11-09 23:24:24,261 - DEBUG - Lock 2099023620640 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-11-09 23:24:24,261 - DEBUG - Starting new HTTPS connection (1): cdn-lfs.hf.co:443
+2024-11-09 23:24:24,371 - DEBUG - https://cdn-lfs.hf.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1731450262&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTczMTQ1MDI2Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9zZW50ZW5jZS10cmFuc2Zvcm1lcnMvbXVsdGktcWEtbXBuZXQtYmFzZS1kb3QtdjEvZDAzMzhkNzM4NWUyNzE3Y2E0ZWRkYjdiYmVjM2I5OTUwZDNiOGRmZjQ3ZGVkZWYwYWQ1NTZkMWMzMTQwNzZiZj9yZXNwb25zZS1jb250ZW50LWRpc3Bvc2l0aW9uPSoifV19&Signature=h0iBpNgILvGXCI3W2~NELeDsZ-2P4Yj-~RcvHjSY7qtKcwsNkPQBg2JErJHKomTcBi2eaWdVs4xQ1eUGt04DQW9CJW85N0vorx8Hqf7d4~~02OhpYCozuwg9qWkdqmTDD4CKjPOwQ7zKzmy9dr31NK2BbcyXlX32n1qXKF-5yRZ-9ulCYVhhk1nO29NWQpJC0lzflyAYZHqm8-1wXwmQrBvkZGoJYwgFzr4gBqcypWzn5iJRd7bdypgg~wG6qtW8nC8tjVQKLauNqOYPLUlnShBD~4XCRS8aAsYNSgnCtwfcbZgSOgNh-3sUs2~TPFx5oW98tONdpYT2cJKkSoQxsA__&Key-Pair-Id=K3RPWS32NSSJCE HTTP/11" 200 437971872
+2024-11-09 23:25:20,484 - DEBUG - Attempting to release lock 2099023620640 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-11-09 23:25:20,485 - DEBUG - Lock 2099023620640 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\d0338d7385e2717ca4eddb7bbec3b9950d3b8dff47dedef0ad556d1c314076bf.lock
+2024-11-09 23:25:21,101 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-09 23:25:21,101 - DEBUG - Attempting to acquire lock 2099023619920 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-11-09 23:25:21,101 - DEBUG - Lock 2099023619920 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-11-09 23:25:21,290 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 363
+2024-11-09 23:25:21,309 - DEBUG - Attempting to release lock 2099023619920 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-11-09 23:25:21,311 - DEBUG - Lock 2099023619920 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2024-11-09 23:25:21,495 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/vocab.txt HTTP/11" 200 0
+2024-11-09 23:25:21,510 - DEBUG - Attempting to acquire lock 2099024756608 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-11-09 23:25:21,511 - DEBUG - Lock 2099024756608 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-11-09 23:25:21,700 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/vocab.txt HTTP/11" 200 231536
+2024-11-09 23:25:21,874 - DEBUG - Attempting to release lock 2099024756608 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-11-09 23:25:21,889 - DEBUG - Lock 2099024756608 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2024-11-09 23:25:22,190 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer.json HTTP/11" 200 0
+2024-11-09 23:25:22,204 - DEBUG - Attempting to acquire lock 2099024478176 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-11-09 23:25:22,205 - DEBUG - Lock 2099024478176 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-11-09 23:25:22,432 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer.json HTTP/11" 200 466021
+2024-11-09 23:25:22,488 - DEBUG - Attempting to release lock 2099024478176 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-11-09 23:25:22,490 - DEBUG - Lock 2099024478176 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\99ab0363136b2901455b583971ad62829c311cfe.lock
+2024-11-09 23:25:22,727 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/added_tokens.json HTTP/11" 404 0
+2024-11-09 23:25:22,929 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/special_tokens_map.json HTTP/11" 200 0
+2024-11-09 23:25:22,945 - DEBUG - Attempting to acquire lock 2098983750448 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-11-09 23:25:22,945 - DEBUG - Lock 2098983750448 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-11-09 23:25:23,149 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/special_tokens_map.json HTTP/11" 200 239
+2024-11-09 23:25:23,151 - DEBUG - Attempting to release lock 2098983750448 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-11-09 23:25:23,151 - DEBUG - Lock 2098983750448 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2024-11-09 23:25:23,371 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-09 23:25:23,387 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-09 23:25:23,857 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/4633e80e17ea975bc090c97b049da26062b054d3/1_Pooling/config.json HTTP/11" 200 0
+2024-11-09 23:25:23,857 - DEBUG - Attempting to acquire lock 2099025599888 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-11-09 23:25:23,857 - DEBUG - Lock 2099025599888 acquired on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-11-09 23:25:24,283 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/4633e80e17ea975bc090c97b049da26062b054d3/1_Pooling/config.json HTTP/11" 200 190
+2024-11-09 23:25:24,291 - DEBUG - Attempting to release lock 2099025599888 on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-11-09 23:25:24,291 - DEBUG - Lock 2099025599888 released on C:\Users\Demo\.cache\huggingface\hub\.locks\models--sentence-transformers--multi-qa-mpnet-base-dot-v1\da5bfd57e34ca45582e4bdbaa3e6deb9efffa08d.lock
+2024-11-09 23:25:24,472 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-09 23:25:24,488 - INFO - NLP model loaded successfully.
+2024-11-09 23:25:27,079 - INFO - Best matches based on similarity: ['Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', '\nNeural Networks and Deep Learning – Inspired by the\nhuman brain, neural \nnetworks are a core technology in AI']
+2024-11-09 23:25:37,045 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_672fe15c9b7ea\content.txt
+2024-11-09 23:25:37,045 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_672fe15c9b7ea\content.txt
+2024-11-09 23:25:37,061 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-09 23:25:37,061 - INFO - File content extracted successfully.
+2024-11-09 23:25:37,061 - INFO - Loading NLP model.
+2024-11-09 23:25:37,061 - INFO - Use pytorch device_name: cpu
+2024-11-09 23:25:37,061 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-09 23:25:37,061 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-09 23:25:37,264 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:25:37,688 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-09 23:25:38,191 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-09 23:25:38,603 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:25:38,808 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-09 23:25:39,015 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-09 23:25:39,726 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-09 23:25:39,931 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-09 23:25:40,136 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-09 23:25:40,153 - INFO - NLP model loaded successfully.
+2024-11-09 23:25:42,187 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-09 23:26:10,645 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_672fe17e5200a\content.txt
+2024-11-09 23:26:10,645 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_672fe17e5200a\content.txt
+2024-11-09 23:26:10,656 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-09 23:26:10,656 - INFO - File content extracted successfully.
+2024-11-09 23:26:10,656 - INFO - Loading NLP model.
+2024-11-09 23:26:10,656 - INFO - Use pytorch device_name: cpu
+2024-11-09 23:26:10,656 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-09 23:26:10,656 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-09 23:26:11,190 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:26:11,583 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-09 23:26:11,993 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-09 23:26:12,401 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-09 23:26:12,605 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-09 23:26:12,808 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-09 23:26:13,437 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-09 23:26:13,938 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-09 23:26:14,139 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-09 23:26:14,146 - INFO - NLP model loaded successfully.
+2024-11-09 23:26:16,129 - INFO - Best matches based on similarity: ['Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', '\nNeural Networks and Deep Learning – Inspired by the\nhuman brain, neural \nnetworks are a core technology in AI']
+2024-11-10 17:46:24,357 - INFO - Starting process with question: what is ai? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6730e3527a03d\content.txt
+2024-11-10 17:46:24,357 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6730e3527a03d\content.txt
+2024-11-10 17:46:24,387 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-10 17:46:24,387 - INFO - File content extracted successfully.
+2024-11-10 17:46:24,387 - INFO - Loading NLP model.
+2024-11-10 17:46:24,387 - INFO - Use pytorch device_name: cpu
+2024-11-10 17:46:24,387 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-10 17:46:24,400 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-10 17:46:24,982 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 17:46:25,188 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-10 17:46:25,392 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-10 17:46:25,598 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 17:46:25,802 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-10 17:46:26,006 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-10 17:46:28,747 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-10 17:46:29,181 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-10 17:46:29,380 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-10 17:46:29,399 - INFO - NLP model loaded successfully.
+2024-11-10 17:46:35,440 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-10 17:46:55,985 - INFO - Starting process with question: what is ai? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6730e37bba406\content.txt
+2024-11-10 17:46:55,985 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6730e37bba406\content.txt
+2024-11-10 17:46:56,001 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-10 17:46:56,001 - INFO - File content extracted successfully.
+2024-11-10 17:46:56,001 - INFO - Loading NLP model.
+2024-11-10 17:46:56,001 - INFO - Use pytorch device_name: cpu
+2024-11-10 17:46:56,001 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-10 17:46:56,001 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-10 17:46:56,519 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 17:46:56,739 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-10 17:46:56,944 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-10 17:46:57,150 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 17:46:57,341 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-10 17:46:57,558 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-10 17:46:58,864 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-10 17:46:59,184 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-10 17:46:59,387 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-10 17:46:59,403 - INFO - NLP model loaded successfully.
+2024-11-10 17:47:05,027 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-10 18:55:26,469 - INFO - Starting process with question: define AI and file: C:\Users\Demo\AppData\Local\Temp\nlp_6730f388e40bf\content.txt
+2024-11-10 18:55:26,469 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6730f388e40bf\content.txt
+2024-11-10 18:55:26,485 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-10 18:55:26,485 - INFO - File content extracted successfully.
+2024-11-10 18:55:26,485 - INFO - Loading NLP model.
+2024-11-10 18:55:26,485 - INFO - Use pytorch device_name: cpu
+2024-11-10 18:55:26,485 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-10 18:55:26,485 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-10 18:55:26,675 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 18:55:26,832 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-10 18:55:27,037 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-10 18:55:27,170 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-10 18:55:27,384 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-10 18:55:27,746 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-10 18:55:30,514 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-10 18:55:30,831 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-10 18:55:31,319 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-10 18:55:31,335 - INFO - NLP model loaded successfully.
+2024-11-10 18:55:37,016 - INFO - Best matches based on similarity: ['Artificial Intelligence (AI) is a branch of computer\nscience focused on creating \nsystems that can perform tasks typically requiring\nhuman intelligence', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', 'Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming']
+2024-11-12 22:40:48,500 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_6733cb54481f6\content.txt
+2024-11-12 22:40:48,500 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_6733cb54481f6\content.txt
+2024-11-12 22:40:48,531 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-12 22:40:48,531 - INFO - File content extracted successfully.
+2024-11-12 22:40:48,531 - INFO - Loading NLP model.
+2024-11-12 22:40:48,531 - INFO - Use pytorch device_name: cpu
+2024-11-12 22:40:48,531 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-12 22:40:48,531 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-12 22:40:48,751 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-12 22:40:49,170 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-12 22:40:49,371 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-12 22:40:49,617 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-12 22:40:49,897 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-12 22:40:50,183 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-12 22:40:51,949 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-12 22:40:52,434 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5398
+2024-11-12 22:40:52,675 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5398
+2024-11-12 22:40:52,690 - INFO - NLP model loaded successfully.
+2024-11-12 22:40:55,179 - INFO - Best matches based on similarity: ['Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', '\nNeural Networks and Deep Learning – Inspired by the\nhuman brain, neural \nnetworks are a core technology in AI']
+2024-11-17 23:42:19,230 - INFO - Starting process with question: what are the key component of AI? and file: C:\Users\Demo\AppData\Local\Temp\nlp_673a713d05a01\content.txt
+2024-11-17 23:42:19,245 - INFO - Attempting to open file C:\Users\Demo\AppData\Local\Temp\nlp_673a713d05a01\content.txt
+2024-11-17 23:42:19,308 - INFO - PDF text extraction with PyMuPDF successful.
+2024-11-17 23:42:19,308 - INFO - File content extracted successfully.
+2024-11-17 23:42:19,308 - INFO - Loading NLP model.
+2024-11-17 23:42:19,308 - INFO - Use pytorch device_name: cpu
+2024-11-17 23:42:19,308 - INFO - Load pretrained SentenceTransformer: multi-qa-mpnet-base-dot-v1
+2024-11-17 23:42:19,317 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-11-17 23:42:19,798 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-17 23:42:20,208 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config_sentence_transformers.json HTTP/11" 200 0
+2024-11-17 23:42:20,585 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/README.md HTTP/11" 200 0
+2024-11-17 23:42:20,742 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/modules.json HTTP/11" 200 0
+2024-11-17 23:42:21,025 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/sentence_bert_config.json HTTP/11" 200 0
+2024-11-17 23:42:21,266 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/config.json HTTP/11" 200 0
+2024-11-17 23:42:25,126 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/multi-qa-mpnet-base-dot-v1/resolve/main/tokenizer_config.json HTTP/11" 200 0
+2024-11-17 23:42:25,428 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1/revision/main HTTP/11" 200 5476
+2024-11-17 23:42:25,648 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/multi-qa-mpnet-base-dot-v1 HTTP/11" 200 5476
+2024-11-17 23:42:25,666 - INFO - NLP model loaded successfully.
+2024-11-17 23:42:31,681 - INFO - Best matches based on similarity: ['Key\ncomponents of AI include: \nMachine Learning (ML) – A subset of AI, ML enables\nsystems to learn from \ndata patterns and improve over time without explicit\nprogramming', '\nArtificial Intelligence (AI) is a rapidly advancing\nfield that seeks to emulate \nhuman cognitive functions, such as learning,\nreasoning, problem-solving, and \ncreativity, through computers and machines', '\nNeural Networks and Deep Learning – Inspired by the\nhuman brain, neural \nnetworks are a core technology in AI']
